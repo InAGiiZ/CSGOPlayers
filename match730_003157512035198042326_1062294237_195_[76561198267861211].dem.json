@@ -1,0 +1,4160 @@
+      {
+        "steamid": 76561198267861211,
+        "name": "ahmedxbomba",
+        "kill_count": 17,
+        "crouch_kill_count": 0,
+        "jump_kill_count": 0,
+        "score": 42,
+        "tk_count": 0,
+        "assist_count": 4,
+        "trade_kill_count": 4,
+        "trade_death_count": 1,
+        "bomb_planted_count": 1,
+        "bomb_defused_count": 0,
+        "bomb_exploded_count": 1,
+        "death_count": 18,
+        "5k_count": 0,
+        "4k_count": 0,
+        "3k_count": 1,
+        "2k_count": 5,
+        "1k_count": 4,
+        "hs_count": 4,
+        "kd": 0.94,
+        "mvp_count": 4,
+        "hltv_rating": 0.99,
+        "esea_rws": 14.19,
+        "is_vac_banned": false,
+        "is_ow_banned": false,
+        "flashbang_count": 2,
+        "smoke_count": 1,
+        "he_count": 3,
+        "molotov_count": 1,
+        "incendiary_count": 0,
+        "decoy_count": 0,
+        "round_count": 24,
+        "team_name": "Team 1",
+        "start_money_rounds": {
+          "1": 800,
+          "2": 3400,
+          "3": 5150,
+          "4": 8650,
+          "5": 6100,
+          "6": 6450,
+          "7": 5600,
+          "8": 2900,
+          "9": 4500,
+          "10": 6900,
+          "11": 4150,
+          "12": 3450,
+          "13": 3950,
+          "14": 4250,
+          "15": 5050,
+          "16": 7850,
+          "17": 3400,
+          "18": 4550,
+          "19": 7800,
+          "20": 8250,
+          "21": 6000,
+          "22": 7200,
+          "23": 4150,
+          "24": 3700
+        },
+        "equipement_value_rounds": {
+          "1": 850,
+          "2": 2900,
+          "3": 4900,
+          "4": 4300,
+          "5": 6850,
+          "6": 4300,
+          "7": 4300,
+          "8": 300,
+          "9": 200,
+          "10": 5950,
+          "11": 4300,
+          "12": 3550,
+          "13": 3550,
+          "14": 3550,
+          "15": 4150,
+          "16": 850,
+          "17": 2900,
+          "18": 3200,
+          "19": 3550,
+          "20": 5950,
+          "21": 1200,
+          "22": 5950,
+          "23": 200,
+          "24": 2900
+        },
+        "rounds_money_earned": {
+          "1": 3250,
+          "2": 4450,
+          "3": 3500,
+          "4": 3650,
+          "5": 1400,
+          "6": 3250,
+          "7": 1400,
+          "8": 1900,
+          "9": 2400,
+          "10": 3000,
+          "11": 3400,
+          "12": 3850,
+          "13": 3650,
+          "14": 4150,
+          "15": 3850,
+          "16": 3400,
+          "17": 3850,
+          "18": 3250,
+          "19": 3800,
+          "20": 3500,
+          "21": 2200,
+          "22": 2700,
+          "23": 3250,
+          "24": 3800
+        },
+        "entry_kills": [
+          {
+            "round_number": 1,
+            "killer_steamid": 76561198142821131,
+            "killer_name": "FJreplay",
+            "killer_side": 2,
+            "killed_steamid": 76561198267861211,
+            "killed_name": "ahmedxbomba",
+            "killed_side": 3,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "has_won": false,
+            "has_won_round": true,
+            "tick": 9159,
+            "seconds": 143.577347
+          },
+          {
+            "round_number": 3,
+            "killer_steamid": 76561198113205877,
+            "killer_name": "Rayd Stark",
+            "killer_side": 2,
+            "killed_steamid": 76561198267861211,
+            "killed_name": "ahmedxbomba",
+            "killed_side": 3,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "has_won": false,
+            "has_won_round": true,
+            "tick": 17785,
+            "seconds": 278.372528
+          },
+          {
+            "round_number": 6,
+            "killer_steamid": 76561198113205877,
+            "killer_name": "Rayd Stark",
+            "killer_side": 2,
+            "killed_steamid": 76561198267861211,
+            "killed_name": "ahmedxbomba",
+            "killed_side": 3,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "has_won": false,
+            "has_won_round": true,
+            "tick": 34842,
+            "seconds": 544.9001
+          },
+          {
+            "round_number": 17,
+            "killer_steamid": 76561198267861211,
+            "killer_name": "ahmedxbomba",
+            "killer_side": 2,
+            "killed_steamid": 76561198220029291,
+            "killed_name": "FilipeTheMLGPro! ?™",
+            "killed_side": 3,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "has_won": true,
+            "has_won_round": true,
+            "tick": 101679,
+            "seconds": 1589.19556
+          }
+        ],
+        "entry_hold_kills": [
+          {
+            "round_number": 2,
+            "killer_steamid": 76561198267861211,
+            "killer_name": "ahmedxbomba",
+            "killer_side": 3,
+            "killed_steamid": 76561198142821131,
+            "killed_name": "FJreplay",
+            "killed_side": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "has_won": true,
+            "has_won_round": true,
+            "tick": 12999,
+            "seconds": 203.583557
+          },
+          {
+            "round_number": 13,
+            "killer_steamid": 76561198267861211,
+            "killer_name": "ahmedxbomba",
+            "killer_side": 3,
+            "killed_steamid": 76561198142821131,
+            "killed_name": "FJreplay",
+            "killed_side": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "has_won": true,
+            "has_won_round": true,
+            "tick": 79186,
+            "seconds": 1237.7843
+          },
+          {
+            "round_number": 18,
+            "killer_steamid": 76561198093606580,
+            "killer_name": "roguez",
+            "killer_side": 3,
+            "killed_steamid": 76561198267861211,
+            "killed_name": "ahmedxbomba",
+            "killed_side": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "has_won": false,
+            "has_won_round": true,
+            "tick": 105217,
+            "seconds": 1644.48254
+          },
+          {
+            "round_number": 23,
+            "killer_steamid": 76561198093606580,
+            "killer_name": "roguez",
+            "killer_side": 3,
+            "killed_steamid": 76561198267861211,
+            "killed_name": "ahmedxbomba",
+            "killed_side": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "has_won": false,
+            "has_won_round": true,
+            "tick": 133399,
+            "seconds": 2084.84058
+          }
+        ],
+        "kills": [
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198142821131,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "heatmap_point": {
+              "killer_x": 319.3686,
+              "killer_y": 1546.80273,
+              "victim_x": -43.4957581,
+              "victim_y": 1411.56042,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -21.5651741,
+            "killer_vel_y": 52.1791458,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "FJreplay",
+            "assister_name": null,
+            "round_number": 2,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 12999,
+            "seconds": 203.583557
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198093606580,
+            "assister_steamid": 76561198072388200,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "heatmap_point": {
+              "killer_x": 155.125381,
+              "killer_y": -543.8264,
+              "victim_x": -517.812,
+              "victim_y": -757.2144,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 6.044295,
+            "killer_vel_y": -17.91404,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "roguez",
+            "assister_name": "Sr.Ranger",
+            "round_number": 2,
+            "killer_crouching": false,
+            "is_trade_kill": true,
+            "is_headshot": false,
+            "tick": 14611,
+            "seconds": 228.773651
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198142821131,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "heatmap_point": {
+              "killer_x": -331.4576,
+              "killer_y": 834.4498,
+              "victim_x": -217.131,
+              "victim_y": 500.080475,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -34.82767,
+            "killer_vel_y": -73.272644,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "FJreplay",
+            "assister_name": null,
+            "round_number": 4,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": true,
+            "tick": 24197,
+            "seconds": 378.5704
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198220029291,
+            "assister_steamid": 76561198268745214,
+            "weapon": {
+              "element": 309,
+              "type": 3,
+              "weapon_name": "AWP"
+            },
+            "heatmap_point": {
+              "killer_x": -160.395157,
+              "killer_y": 1334.16284,
+              "victim_x": 329.6404,
+              "victim_y": 1399.3783,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 1.361492,
+            "killer_vel_y": -8.485214,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "FilipeTheMLGPro! ?™",
+            "assister_name": "M-A-R-I-O",
+            "round_number": 4,
+            "killer_crouching": false,
+            "is_trade_kill": true,
+            "is_headshot": false,
+            "tick": 25111,
+            "seconds": 392.853119
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198220029291,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 309,
+              "type": 3,
+              "weapon_name": "AWP"
+            },
+            "heatmap_point": {
+              "killer_x": 1054.201,
+              "killer_y": 2594.24341,
+              "victim_x": 284.779633,
+              "victim_y": 1880.85938,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 0.0,
+            "killer_vel_y": 0.0,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "FilipeTheMLGPro! ?™",
+            "assister_name": null,
+            "round_number": 10,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 59722,
+            "seconds": 933.659058
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198173857763,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "heatmap_point": {
+              "killer_x": 668.60144,
+              "killer_y": 312.7134,
+              "victim_x": 375.6753,
+              "victim_y": 110.8915,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -48.77399,
+            "killer_vel_y": -71.5881042,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "Alfonso",
+            "assister_name": null,
+            "round_number": 12,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 72644,
+            "seconds": 1135.55493
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198093606580,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "heatmap_point": {
+              "killer_x": -114.289391,
+              "killer_y": 1384.72559,
+              "victim_x": 210.335678,
+              "victim_y": 1499.09021,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 186.0982,
+            "killer_vel_y": 14.0934982,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "roguez",
+            "assister_name": null,
+            "round_number": 12,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 73294,
+            "seconds": 1145.71228
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198142821131,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "heatmap_point": {
+              "killer_x": 988.557556,
+              "killer_y": 806.836365,
+              "victim_x": 816.4038,
+              "victim_y": 904.4692,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -37.60035,
+            "killer_vel_y": -97.69313,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "FJreplay",
+            "assister_name": null,
+            "round_number": 13,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 79186,
+            "seconds": 1237.7843
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198220029291,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 309,
+              "type": 3,
+              "weapon_name": "AWP"
+            },
+            "heatmap_point": {
+              "killer_x": 1367.99072,
+              "killer_y": 703.3004,
+              "victim_x": 1046.11462,
+              "victim_y": 1089.48926,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 0.0,
+            "killer_vel_y": 0.0,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "FilipeTheMLGPro! ?™",
+            "assister_name": null,
+            "round_number": 13,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 80316,
+            "seconds": 1255.44226
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198142821131,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "heatmap_point": {
+              "killer_x": -957.4539,
+              "killer_y": -733.4084,
+              "victim_x": -435.349976,
+              "victim_y": -716.8434,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 0.0,
+            "killer_vel_y": 0.0,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "FJreplay",
+            "assister_name": null,
+            "round_number": 14,
+            "killer_crouching": false,
+            "is_trade_kill": true,
+            "is_headshot": false,
+            "tick": 86402,
+            "seconds": 1350.5459
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198093606580,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "heatmap_point": {
+              "killer_x": 190.424286,
+              "killer_y": 1433.8092,
+              "victim_x": 430.259918,
+              "victim_y": 1720.74341,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 32.9084053,
+            "killer_vel_y": 5.05241871,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "roguez",
+            "assister_name": null,
+            "round_number": 14,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 87570,
+            "seconds": 1368.79773
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198113205877,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "heatmap_point": {
+              "killer_x": 666.269165,
+              "killer_y": 815.3086,
+              "victim_x": 772.64386,
+              "victim_y": 826.347839,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 3.09446716,
+            "killer_vel_y": 119.166893,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "Rayd Stark",
+            "assister_name": null,
+            "round_number": 14,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 88932,
+            "seconds": 1390.0813
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198142821131,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "heatmap_point": {
+              "killer_x": 5.61197758,
+              "killer_y": -863.263,
+              "victim_x": 234.502991,
+              "victim_y": -176.068939,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -38.60834,
+            "killer_vel_y": 11.1789007,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "FJreplay",
+            "assister_name": null,
+            "round_number": 15,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 94746,
+            "seconds": 1480.90308
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198113205877,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "heatmap_point": {
+              "killer_x": 274.215057,
+              "killer_y": -531.919067,
+              "victim_x": 259.592773,
+              "victim_y": -327.77417,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 8.336781,
+            "killer_vel_y": 1.411014,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "Rayd Stark",
+            "assister_name": null,
+            "round_number": 15,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": true,
+            "tick": 95194,
+            "seconds": 1487.90381
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198220029291,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "heatmap_point": {
+              "killer_x": 104.678741,
+              "killer_y": 1410.843,
+              "victim_x": 343.9687,
+              "victim_y": 1496.63513,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -8.799568,
+            "killer_vel_y": 30.0476074,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "FilipeTheMLGPro! ?™",
+            "assister_name": null,
+            "round_number": 17,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 101679,
+            "seconds": 1589.19556
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198113205877,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "heatmap_point": {
+              "killer_x": -1275.50818,
+              "killer_y": 2178.10376,
+              "victim_x": -1220.91113,
+              "victim_y": 2101.18213,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 163.019028,
+            "killer_vel_y": -162.249176,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "Rayd Stark",
+            "assister_name": null,
+            "round_number": 19,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": true,
+            "tick": 110677,
+            "seconds": 1729.80383
+          },
+          {
+            "killer_steamid": 76561198267861211,
+            "killed_steamid": 76561198220029291,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "heatmap_point": {
+              "killer_x": -1710.3728,
+              "killer_y": 2806.473,
+              "victim_x": -1247.74988,
+              "victim_y": 2628.26514,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -21.085207,
+            "killer_vel_y": -63.2489243,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "ahmedxbomba",
+            "killed_name": "FilipeTheMLGPro! ?™",
+            "assister_name": null,
+            "round_number": 24,
+            "killer_crouching": false,
+            "is_trade_kill": true,
+            "is_headshot": true,
+            "tick": 142499,
+            "seconds": 2227.04272
+          }
+        ],
+        "deaths": [
+          {
+            "killer_steamid": 76561198142821131,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "heatmap_point": {
+              "killer_x": 295.5326,
+              "killer_y": 1469.34387,
+              "victim_x": 374.060852,
+              "victim_y": 1567.146,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -4.18497753,
+            "killer_vel_y": 28.1957626,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "FJreplay",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 1,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": true,
+            "tick": 9159,
+            "seconds": 143.577347
+          },
+          {
+            "killer_steamid": 76561198113205877,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "heatmap_point": {
+              "killer_x": -447.332031,
+              "killer_y": 1373.38013,
+              "victim_x": -437.163452,
+              "victim_y": 1416.99817,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -91.5179,
+            "killer_vel_y": -56.2634468,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "Rayd Stark",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 3,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 17785,
+            "seconds": 278.372528
+          },
+          {
+            "killer_steamid": 76561198142821131,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 2,
+              "type": 1,
+              "weapon_name": "Glock-18"
+            },
+            "heatmap_point": {
+              "killer_x": 313.3556,
+              "killer_y": 1845.40576,
+              "victim_x": 505.467224,
+              "victim_y": 2307.73633,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -220.653915,
+            "killer_vel_y": 88.139946,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "FJreplay",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 5,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 32138,
+            "seconds": 502.645721
+          },
+          {
+            "killer_steamid": 76561198113205877,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "heatmap_point": {
+              "killer_x": -223.96875,
+              "killer_y": 1446.82031,
+              "victim_x": -54.88212,
+              "victim_y": 1466.844,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 0.0,
+            "killer_vel_y": 0.0,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "Rayd Stark",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 6,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 34842,
+            "seconds": 544.9001
+          },
+          {
+            "killer_steamid": 76561198113205877,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "heatmap_point": {
+              "killer_x": -1661.74048,
+              "killer_y": 911.751831,
+              "victim_x": -1749.83569,
+              "victim_y": 302.1419,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 0.0,
+            "killer_vel_y": 0.0,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "Rayd Stark",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 7,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 43321,
+            "seconds": 677.382568
+          },
+          {
+            "killer_steamid": 76561198142821131,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 506,
+              "type": 7,
+              "weapon_name": "HE Grenade"
+            },
+            "heatmap_point": {
+              "killer_x": 1551.14917,
+              "killer_y": 1745.714,
+              "victim_x": 1000.60376,
+              "victim_y": 2351.9375,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 22.9393711,
+            "killer_vel_y": 23.7665329,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "FJreplay",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 8,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 50307,
+            "seconds": 786.5501
+          },
+          {
+            "killer_steamid": 76561198142821131,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "heatmap_point": {
+              "killer_x": -1062.19116,
+              "killer_y": 1240.0415,
+              "victim_x": -1089.42334,
+              "victim_y": 1170.91174,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -60.00349,
+            "killer_vel_y": 31.0602722,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "FJreplay",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 9,
+            "killer_crouching": true,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 55550,
+            "seconds": 868.4648
+          },
+          {
+            "killer_steamid": 76561198173857763,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 105,
+              "type": 4,
+              "weapon_name": "UMP-45"
+            },
+            "heatmap_point": {
+              "killer_x": 1423.97009,
+              "killer_y": 1188.063,
+              "victim_x": 1277.45337,
+              "victim_y": 2769.851,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 0.0,
+            "killer_vel_y": 0.0,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "Alfonso",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 10,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": true,
+            "tick": 60522,
+            "seconds": 946.160339
+          },
+          {
+            "killer_steamid": 76561198142821131,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "heatmap_point": {
+              "killer_x": 480.062775,
+              "killer_y": 1855.45166,
+              "victim_x": 272.03125,
+              "victim_y": 2767.99878,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 0.0,
+            "killer_vel_y": 0.0,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "FJreplay",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 11,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 65361,
+            "seconds": 1021.7619
+          },
+          {
+            "killer_steamid": 76561198142821131,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 309,
+              "type": 3,
+              "weapon_name": "AWP"
+            },
+            "heatmap_point": {
+              "killer_x": -1823.862,
+              "killer_y": -464.1097,
+              "victim_x": -922.595764,
+              "victim_y": -889.300842,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 0.0,
+            "killer_vel_y": 0.0,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "FJreplay",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 12,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 75218,
+            "seconds": 1175.77783
+          },
+          {
+            "killer_steamid": 76561198113205877,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "heatmap_point": {
+              "killer_x": 586.1936,
+              "killer_y": 526.4722,
+              "victim_x": 588.690552,
+              "victim_y": 695.723145,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 96.39824,
+            "killer_vel_y": 37.892437,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "Rayd Stark",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 13,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 81726,
+            "seconds": 1277.47583
+          },
+          {
+            "killer_steamid": 76561198093606580,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 76561198113205877,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "heatmap_point": {
+              "killer_x": 307.347961,
+              "killer_y": 1533.58093,
+              "victim_x": -180.936234,
+              "victim_y": 1368.92273,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -60.7265129,
+            "killer_vel_y": 159.010025,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "roguez",
+            "killed_name": "ahmedxbomba",
+            "assister_name": "Rayd Stark",
+            "round_number": 18,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 105217,
+            "seconds": 1644.48254
+          },
+          {
+            "killer_steamid": 76561198220029291,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "heatmap_point": {
+              "killer_x": 46.0789,
+              "killer_y": 2090.963,
+              "victim_x": -943.9719,
+              "victim_y": 2460.706,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -4.571657,
+            "killer_vel_y": -11.238245,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "FilipeTheMLGPro! ?™",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 19,
+            "killer_crouching": false,
+            "is_trade_kill": true,
+            "is_headshot": false,
+            "tick": 110913,
+            "seconds": 1733.4917
+          },
+          {
+            "killer_steamid": 76561198268745214,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 76561198093606580,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "heatmap_point": {
+              "killer_x": -1889.42834,
+              "killer_y": -702.8321,
+              "victim_x": -2141.988,
+              "victim_y": -713.6943,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 0.0,
+            "killer_vel_y": 0.0,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 2,
+            "killer_name": "AGUSTIN EL DE LA POLLA SIN FIN",
+            "killed_name": "ahmedxbomba",
+            "assister_name": "roguez",
+            "round_number": 20,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": true,
+            "tick": 119977,
+            "seconds": 1875.13135
+          },
+          {
+            "killer_steamid": 76561198142821131,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 5,
+              "type": 1,
+              "weapon_name": "Five-SeveN"
+            },
+            "heatmap_point": {
+              "killer_x": -1241.94592,
+              "killer_y": 2112.89185,
+              "victim_x": -1412.90466,
+              "victim_y": 2367.385,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 0.880286634,
+            "killer_vel_y": 0.70052135,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "FJreplay",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 21,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 123212,
+            "seconds": 1925.66785
+          },
+          {
+            "killer_steamid": 76561198093606580,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 76561198113205877,
+            "weapon": {
+              "element": 309,
+              "type": 3,
+              "weapon_name": "AWP"
+            },
+            "heatmap_point": {
+              "killer_x": -1734.96289,
+              "killer_y": 1198.34949,
+              "victim_x": -1638.48145,
+              "victim_y": 548.8551,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 12.6304512,
+            "killer_vel_y": 1.95754766,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "roguez",
+            "killed_name": "ahmedxbomba",
+            "assister_name": "Rayd Stark",
+            "round_number": 22,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 130175,
+            "seconds": 2034.46033
+          },
+          {
+            "killer_steamid": 76561198093606580,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "heatmap_point": {
+              "killer_x": 361.536041,
+              "killer_y": 1440.17834,
+              "victim_x": -71.79325,
+              "victim_y": 1388.673,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -2.27393913,
+            "killer_vel_y": 15.1819572,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "roguez",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 23,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 133399,
+            "seconds": 2084.84058
+          },
+          {
+            "killer_steamid": 76561198113205877,
+            "killed_steamid": 76561198267861211,
+            "assister_steamid": 0,
+            "weapon": {
+              "element": 310,
+              "type": 3,
+              "weapon_name": "Scar-20"
+            },
+            "heatmap_point": {
+              "killer_x": -1333.65686,
+              "killer_y": 2225.8938,
+              "victim_x": -1397.84863,
+              "victim_y": 2321.91846,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -71.59368,
+            "killer_vel_y": -8.277151,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "Rayd Stark",
+            "killed_name": "ahmedxbomba",
+            "assister_name": null,
+            "round_number": 24,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 143225,
+            "seconds": 2238.3877
+          }
+        ],
+        "assits": [
+          {
+            "killer_steamid": 76561198072388200,
+            "killed_steamid": 76561198142821131,
+            "assister_steamid": 76561198267861211,
+            "weapon": {
+              "element": 9,
+              "type": 1,
+              "weapon_name": "USP-S"
+            },
+            "heatmap_point": {
+              "killer_x": 602.962,
+              "killer_y": 2146.1792,
+              "victim_x": 898.1986,
+              "victim_y": 2378.53,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -109.377808,
+            "killer_vel_y": -38.05148,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "Sr.Ranger",
+            "killed_name": "FJreplay",
+            "assister_name": "ahmedxbomba",
+            "round_number": 1,
+            "killer_crouching": false,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 9625,
+            "seconds": 150.859344
+          },
+          {
+            "killer_steamid": 76561198236971050,
+            "killed_steamid": 76561198113205877,
+            "assister_steamid": 76561198267861211,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "heatmap_point": {
+              "killer_x": -1429.06287,
+              "killer_y": 1221.1377,
+              "victim_x": -1128.63159,
+              "victim_y": 1061.60754,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": -8.355376,
+            "killer_vel_y": -13.6753082,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "JLblaçk ? | kickback.com",
+            "killed_name": "Rayd Stark",
+            "assister_name": "ahmedxbomba",
+            "round_number": 3,
+            "killer_crouching": true,
+            "is_trade_kill": false,
+            "is_headshot": false,
+            "tick": 18221,
+            "seconds": 285.18573
+          },
+          {
+            "killer_steamid": 76561198072388200,
+            "killed_steamid": 76561198142821131,
+            "assister_steamid": 76561198267861211,
+            "weapon": {
+              "element": 105,
+              "type": 4,
+              "weapon_name": "UMP-45"
+            },
+            "heatmap_point": {
+              "killer_x": 813.231262,
+              "killer_y": 2284.93066,
+              "victim_x": 1530.741,
+              "victim_y": 1982.24731,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 11.5189295,
+            "killer_vel_y": 39.3272324,
+            "killer_vel_z": 0.0,
+            "killer_side": 3,
+            "killed_side": 2,
+            "killer_name": "Sr.Ranger",
+            "killed_name": "FJreplay",
+            "assister_name": "ahmedxbomba",
+            "round_number": 8,
+            "killer_crouching": false,
+            "is_trade_kill": true,
+            "is_headshot": false,
+            "tick": 50413,
+            "seconds": 788.2065
+          },
+          {
+            "killer_steamid": 76561198268745214,
+            "killed_steamid": 76561198113205877,
+            "assister_steamid": 76561198267861211,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "heatmap_point": {
+              "killer_x": -1885.32581,
+              "killer_y": -714.870056,
+              "victim_x": -2138.91,
+              "victim_y": -847.530945,
+              "X": 0.0,
+              "Y": 0.0
+            },
+            "killer_vel_x": 0.0,
+            "killer_vel_y": 0.0,
+            "killer_vel_z": 0.0,
+            "killer_side": 2,
+            "killed_side": 3,
+            "killer_name": "AGUSTIN EL DE LA POLLA SIN FIN",
+            "killed_name": "Rayd Stark",
+            "assister_name": "ahmedxbomba",
+            "round_number": 20,
+            "killer_crouching": true,
+            "is_trade_kill": false,
+            "is_headshot": true,
+            "tick": 120027,
+            "seconds": 1875.91272
+          }
+        ],
+        "players_hurted": [
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 33,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 1,
+              "type": 1,
+              "weapon_name": "P2000"
+            },
+            "round_number": 1,
+            "tick": 8851,
+            "seconds": 138.764343
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 1,
+            "health_damage": 28,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "round_number": 1,
+            "tick": 8955,
+            "seconds": 140.389511
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 1,
+            "health_damage": 28,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "round_number": 1,
+            "tick": 8963,
+            "seconds": 140.514526
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 34,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 1,
+              "type": 1,
+              "weapon_name": "P2000"
+            },
+            "round_number": 1,
+            "tick": 8975,
+            "seconds": 140.702042
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 124,
+            "hitgroup": 1,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "round_number": 1,
+            "tick": 9159,
+            "seconds": 143.577347
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 25,
+            "hitgroup": 4,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 2,
+            "tick": 12969,
+            "seconds": 203.114746
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 25,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 2,
+            "tick": 12983,
+            "seconds": 203.333527
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 25,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 2,
+            "tick": 12989,
+            "seconds": 203.427292
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 25,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 2,
+            "tick": 12999,
+            "seconds": 203.583557
+          },
+          {
+            "hurted_steamid": 76561198093606580,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 17,
+            "hitgroup": 7,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 2,
+            "tick": 14575,
+            "seconds": 228.2111
+          },
+          {
+            "hurted_steamid": 76561198093606580,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 17,
+            "hitgroup": 7,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 2,
+            "tick": 14579,
+            "seconds": 228.2736
+          },
+          {
+            "hurted_steamid": 76561198093606580,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 23,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 2,
+            "tick": 14611,
+            "seconds": 228.773651
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 13,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 506,
+              "type": 7,
+              "weapon_name": "HE Grenade"
+            },
+            "round_number": 3,
+            "tick": 17203,
+            "seconds": 269.277832
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 4,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 506,
+              "type": 7,
+              "weapon_name": "HE Grenade"
+            },
+            "round_number": 3,
+            "tick": 17203,
+            "seconds": 269.277832
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 1,
+            "health_damage": 28,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "round_number": 3,
+            "tick": 17767,
+            "seconds": 278.091248
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 1,
+            "health_damage": 28,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "round_number": 3,
+            "tick": 17769,
+            "seconds": 278.1225
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 32,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 3,
+            "tick": 17769,
+            "seconds": 278.1225
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 1,
+            "health_damage": 29,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "round_number": 3,
+            "tick": 17777,
+            "seconds": 278.247528
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 1,
+            "health_damage": 29,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "round_number": 3,
+            "tick": 17785,
+            "seconds": 278.372528
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 22,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 4,
+            "tick": 24191,
+            "seconds": 378.476624
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 14,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 4,
+            "tick": 24193,
+            "seconds": 378.5079
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 19,
+            "health_damage": 90,
+            "hitgroup": 1,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 4,
+            "tick": 24197,
+            "seconds": 378.5704
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 13,
+            "hitgroup": 4,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 4,
+            "tick": 24255,
+            "seconds": 379.476746
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198220029291,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 27,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 4,
+            "tick": 25089,
+            "seconds": 392.509338
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198220029291,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 27,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 4,
+            "tick": 25101,
+            "seconds": 392.696869
+          },
+          {
+            "hurted_steamid": 76561198220029291,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 113,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 309,
+              "type": 3,
+              "weapon_name": "AWP"
+            },
+            "round_number": 4,
+            "tick": 25111,
+            "seconds": 392.853119
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 24,
+            "hitgroup": 6,
+            "weapon": {
+              "element": 305,
+              "type": 2,
+              "weapon_name": "M4A1"
+            },
+            "round_number": 5,
+            "tick": 31772,
+            "seconds": 496.9264
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 6,
+            "health_damage": 28,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 305,
+              "type": 2,
+              "weapon_name": "M4A1"
+            },
+            "round_number": 5,
+            "tick": 31810,
+            "seconds": 497.5202
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 22,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 305,
+              "type": 2,
+              "weapon_name": "M4A1"
+            },
+            "round_number": 5,
+            "tick": 31830,
+            "seconds": 497.832733
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 6,
+            "health_damage": 11,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 2,
+              "type": 1,
+              "weapon_name": "Glock-18"
+            },
+            "round_number": 5,
+            "tick": 32108,
+            "seconds": 502.176941
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 6,
+            "health_damage": 11,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 2,
+              "type": 1,
+              "weapon_name": "Glock-18"
+            },
+            "round_number": 5,
+            "tick": 32118,
+            "seconds": 502.3332
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 6,
+            "health_damage": 11,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 2,
+              "type": 1,
+              "weapon_name": "Glock-18"
+            },
+            "round_number": 5,
+            "tick": 32138,
+            "seconds": 502.645721
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 6,
+            "health_damage": 28,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 6,
+            "tick": 34790,
+            "seconds": 544.0875
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 6,
+            "health_damage": 28,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 6,
+            "tick": 34824,
+            "seconds": 544.618835
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 22,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 6,
+            "tick": 34830,
+            "seconds": 544.7126
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 6,
+            "health_damage": 28,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 6,
+            "tick": 34842,
+            "seconds": 544.9001
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 16,
+            "hitgroup": 6,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 7,
+            "tick": 43239,
+            "seconds": 676.101135
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 18,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 7,
+            "tick": 43261,
+            "seconds": 676.444946
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 15,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 7,
+            "tick": 43279,
+            "seconds": 676.7262
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 15,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 7,
+            "tick": 43285,
+            "seconds": 676.82
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 15,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 7,
+            "tick": 43289,
+            "seconds": 676.8825
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 15,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 7,
+            "tick": 43293,
+            "seconds": 676.945
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 14,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 7,
+            "tick": 43321,
+            "seconds": 677.382568
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198220029291,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 8,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 506,
+              "type": 7,
+              "weapon_name": "HE Grenade"
+            },
+            "round_number": 8,
+            "tick": 49183,
+            "seconds": 768.9858
+          },
+          {
+            "hurted_steamid": 76561198220029291,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 28,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 3,
+              "type": 1,
+              "weapon_name": "P250"
+            },
+            "round_number": 8,
+            "tick": 49531,
+            "seconds": 774.4238
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 16,
+            "hitgroup": 6,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 8,
+            "tick": 49611,
+            "seconds": 775.67395
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 16,
+            "hitgroup": 6,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 8,
+            "tick": 49633,
+            "seconds": 776.017761
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 22,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 3,
+              "type": 1,
+              "weapon_name": "P250"
+            },
+            "round_number": 8,
+            "tick": 49641,
+            "seconds": 776.142761
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 27,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 3,
+              "type": 1,
+              "weapon_name": "P250"
+            },
+            "round_number": 8,
+            "tick": 49651,
+            "seconds": 776.299
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 77,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 506,
+              "type": 7,
+              "weapon_name": "HE Grenade"
+            },
+            "round_number": 8,
+            "tick": 50307,
+            "seconds": 786.5501
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 35,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 9,
+            "tick": 55538,
+            "seconds": 868.2773
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 35,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 9,
+            "tick": 55544,
+            "seconds": 868.371033
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 44,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 9,
+            "tick": 55550,
+            "seconds": 868.4648
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198173857763,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 16,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 105,
+              "type": 4,
+              "weapon_name": "UMP-45"
+            },
+            "round_number": 10,
+            "tick": 58404,
+            "seconds": 913.0632
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198173857763,
+            "attacker_side": 2,
+            "armor_damage": 5,
+            "health_damage": 20,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 105,
+              "type": 4,
+              "weapon_name": "UMP-45"
+            },
+            "round_number": 10,
+            "tick": 58418,
+            "seconds": 913.2819
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198173857763,
+            "attacker_side": 2,
+            "armor_damage": 5,
+            "health_damage": 20,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 105,
+              "type": 4,
+              "weapon_name": "UMP-45"
+            },
+            "round_number": 10,
+            "tick": 58422,
+            "seconds": 913.3444
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198173857763,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 19,
+            "hitgroup": 7,
+            "weapon": {
+              "element": 105,
+              "type": 4,
+              "weapon_name": "UMP-45"
+            },
+            "round_number": 10,
+            "tick": 58462,
+            "seconds": 913.9695
+          },
+          {
+            "hurted_steamid": 76561198220029291,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 1,
+            "health_damage": 109,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 309,
+              "type": 3,
+              "weapon_name": "AWP"
+            },
+            "round_number": 10,
+            "tick": 59722,
+            "seconds": 933.659058
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198173857763,
+            "attacker_side": 2,
+            "armor_damage": 14,
+            "health_damage": 54,
+            "hitgroup": 1,
+            "weapon": {
+              "element": 105,
+              "type": 4,
+              "weapon_name": "UMP-45"
+            },
+            "round_number": 10,
+            "tick": 60522,
+            "seconds": 946.160339
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 26,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 11,
+            "tick": 65279,
+            "seconds": 1020.48053
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 26,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 11,
+            "tick": 65305,
+            "seconds": 1020.88684
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 26,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 11,
+            "tick": 65333,
+            "seconds": 1021.32434
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 26,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 11,
+            "tick": 65361,
+            "seconds": 1021.7619
+          },
+          {
+            "hurted_steamid": 76561198173857763,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 14,
+            "health_damage": 63,
+            "hitgroup": 1,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 12,
+            "tick": 72632,
+            "seconds": 1135.36743
+          },
+          {
+            "hurted_steamid": 76561198173857763,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 12,
+            "tick": 72634,
+            "seconds": 1135.39868
+          },
+          {
+            "hurted_steamid": 76561198173857763,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 12,
+            "tick": 72640,
+            "seconds": 1135.49243
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198173857763,
+            "attacker_side": 2,
+            "armor_damage": 5,
+            "health_damage": 20,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 105,
+              "type": 4,
+              "weapon_name": "UMP-45"
+            },
+            "round_number": 12,
+            "tick": 72642,
+            "seconds": 1135.52368
+          },
+          {
+            "hurted_steamid": 76561198173857763,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 12,
+            "tick": 72644,
+            "seconds": 1135.55493
+          },
+          {
+            "hurted_steamid": 76561198093606580,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 17,
+            "hitgroup": 7,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 12,
+            "tick": 73284,
+            "seconds": 1145.55591
+          },
+          {
+            "hurted_steamid": 76561198093606580,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 20,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 12,
+            "tick": 73290,
+            "seconds": 1145.64966
+          },
+          {
+            "hurted_steamid": 76561198093606580,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 12,
+            "tick": 73294,
+            "seconds": 1145.71228
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 1,
+            "health_damage": 109,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 309,
+              "type": 3,
+              "weapon_name": "AWP"
+            },
+            "round_number": 12,
+            "tick": 75218,
+            "seconds": 1175.77783
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 13,
+            "tick": 79154,
+            "seconds": 1237.28418
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 13,
+            "tick": 79162,
+            "seconds": 1237.40918
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 13,
+            "tick": 79166,
+            "seconds": 1237.47168
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 2,
+            "armor_damage": 1,
+            "health_damage": 27,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "round_number": 13,
+            "tick": 79178,
+            "seconds": 1237.65918
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 18,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 13,
+            "tick": 79180,
+            "seconds": 1237.69043
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 24,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 13,
+            "tick": 79186,
+            "seconds": 1237.7843
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198220029291,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 19,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 13,
+            "tick": 80300,
+            "seconds": 1255.19226
+          },
+          {
+            "hurted_steamid": 76561198220029291,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 1,
+            "health_damage": 111,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 309,
+              "type": 3,
+              "weapon_name": "AWP"
+            },
+            "round_number": 13,
+            "tick": 80316,
+            "seconds": 1255.44226
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 1,
+            "health_damage": 27,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "round_number": 13,
+            "tick": 81696,
+            "seconds": 1277.00708
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 1,
+            "health_damage": 27,
+            "hitgroup": 4,
+            "weapon": {
+              "element": 7,
+              "type": 1,
+              "weapon_name": "Tec-9"
+            },
+            "round_number": 13,
+            "tick": 81726,
+            "seconds": 1277.47583
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 15,
+            "hitgroup": 4,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 86348,
+            "seconds": 1349.702
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 19,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 86358,
+            "seconds": 1349.85828
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 19,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 86362,
+            "seconds": 1349.92078
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 19,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 86384,
+            "seconds": 1350.26465
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 19,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 86388,
+            "seconds": 1350.32715
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 16,
+            "hitgroup": 7,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 86402,
+            "seconds": 1350.5459
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 16,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 14,
+            "tick": 87562,
+            "seconds": 1368.67273
+          },
+          {
+            "hurted_steamid": 76561198093606580,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 14,
+            "health_damage": 64,
+            "hitgroup": 1,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 87566,
+            "seconds": 1368.73523
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 2,
+            "armor_damage": 6,
+            "health_damage": 20,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 14,
+            "tick": 87566,
+            "seconds": 1368.73523
+          },
+          {
+            "hurted_steamid": 76561198093606580,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 87570,
+            "seconds": 1368.79773
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 24,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 88874,
+            "seconds": 1389.17493
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 8,
+            "health_damage": 15,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 2,
+              "type": 1,
+              "weapon_name": "Glock-18"
+            },
+            "round_number": 14,
+            "tick": 88890,
+            "seconds": 1389.42493
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 18,
+            "hitgroup": 6,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 88906,
+            "seconds": 1389.67493
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 31,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 88924,
+            "seconds": 1389.95618
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 18,
+            "hitgroup": 6,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 88928,
+            "seconds": 1390.01868
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 31,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 14,
+            "tick": 88932,
+            "seconds": 1390.0813
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 17,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 94492,
+            "seconds": 1476.934
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 18,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 94692,
+            "seconds": 1480.05933
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 14,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 94698,
+            "seconds": 1480.15308
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 14,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 94704,
+            "seconds": 1480.24683
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 15,
+            "hitgroup": 6,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 94734,
+            "seconds": 1480.71558
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 15,
+            "hitgroup": 7,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 94742,
+            "seconds": 1480.84058
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 18,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 94746,
+            "seconds": 1480.90308
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 13,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 94764,
+            "seconds": 1481.18445
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 18,
+            "hitgroup": 6,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 95080,
+            "seconds": 1486.12244
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 95086,
+            "seconds": 1486.21619
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 95108,
+            "seconds": 1486.55994
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 95114,
+            "seconds": 1486.65369
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 95126,
+            "seconds": 1486.84119
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 2,
+            "armor_damage": 8,
+            "health_damage": 81,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 311,
+              "type": 3,
+              "weapon_name": "G3SG1"
+            },
+            "round_number": 15,
+            "tick": 95184,
+            "seconds": 1487.74756
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 98,
+            "hitgroup": 1,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 15,
+            "tick": 95194,
+            "seconds": 1487.90381
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 3,
+            "armor_damage": 2,
+            "health_damage": 56,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 4,
+              "type": 1,
+              "weapon_name": "Desert Eagle"
+            },
+            "round_number": 16,
+            "tick": 97822,
+            "seconds": 1528.93933
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 6,
+            "health_damage": 11,
+            "hitgroup": 4,
+            "weapon": {
+              "element": 2,
+              "type": 1,
+              "weapon_name": "Glock-18"
+            },
+            "round_number": 16,
+            "tick": 97846,
+            "seconds": 1529.31433
+          },
+          {
+            "hurted_steamid": 76561198142821131,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 8,
+            "health_damage": 14,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 2,
+              "type": 1,
+              "weapon_name": "Glock-18"
+            },
+            "round_number": 16,
+            "tick": 97858,
+            "seconds": 1529.502
+          },
+          {
+            "hurted_steamid": 76561198220029291,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 26,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 17,
+            "tick": 101631,
+            "seconds": 1588.44556
+          },
+          {
+            "hurted_steamid": 76561198220029291,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 26,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 17,
+            "tick": 101655,
+            "seconds": 1588.82056
+          },
+          {
+            "hurted_steamid": 76561198220029291,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 26,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 17,
+            "tick": 101657,
+            "seconds": 1588.85181
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198220029291,
+            "attacker_side": 3,
+            "armor_damage": 3,
+            "health_damage": 16,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 17,
+            "tick": 101677,
+            "seconds": 1589.16431
+          },
+          {
+            "hurted_steamid": 76561198220029291,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 26,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 17,
+            "tick": 101679,
+            "seconds": 1589.19556
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 3,
+            "armor_damage": 7,
+            "health_damage": 88,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 306,
+              "type": 3,
+              "weapon_name": "SSG 08"
+            },
+            "round_number": 18,
+            "tick": 105053,
+            "seconds": 1641.9198
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 19,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 18,
+            "tick": 105217,
+            "seconds": 1644.48254
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 17,
+            "hitgroup": 4,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 19,
+            "tick": 110663,
+            "seconds": 1729.58508
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 17,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 19,
+            "tick": 110669,
+            "seconds": 1729.67883
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 3,
+            "health_damage": 17,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 19,
+            "tick": 110675,
+            "seconds": 1729.77258
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 15,
+            "health_damage": 69,
+            "hitgroup": 1,
+            "weapon": {
+              "element": 106,
+              "type": 4,
+              "weapon_name": "P90"
+            },
+            "round_number": 19,
+            "tick": 110677,
+            "seconds": 1729.80383
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198220029291,
+            "attacker_side": 3,
+            "armor_damage": 5,
+            "health_damage": 27,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 19,
+            "tick": 110877,
+            "seconds": 1732.9292
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198220029291,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 23,
+            "hitgroup": 6,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 19,
+            "tick": 110895,
+            "seconds": 1733.21045
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198220029291,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 23,
+            "hitgroup": 6,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 19,
+            "tick": 110899,
+            "seconds": 1733.273
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198220029291,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 23,
+            "hitgroup": 6,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 19,
+            "tick": 110905,
+            "seconds": 1733.3667
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198220029291,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 23,
+            "hitgroup": 7,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 19,
+            "tick": 110913,
+            "seconds": 1733.4917
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 2,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 506,
+              "type": 7,
+              "weapon_name": "HE Grenade"
+            },
+            "round_number": 20,
+            "tick": 116089,
+            "seconds": 1814.37512
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 5,
+            "health_damage": 27,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 20,
+            "tick": 116233,
+            "seconds": 1816.62537
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 5,
+            "health_damage": 27,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 304,
+              "type": 2,
+              "weapon_name": "M4A4"
+            },
+            "round_number": 20,
+            "tick": 116245,
+            "seconds": 1816.81287
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 55,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 405,
+              "type": 6,
+              "weapon_name": "Knife"
+            },
+            "round_number": 20,
+            "tick": 119955,
+            "seconds": 1874.7876
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198268745214,
+            "attacker_side": 2,
+            "armor_damage": 1,
+            "health_damage": 9,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 20,
+            "tick": 119965,
+            "seconds": 1874.94385
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198268745214,
+            "attacker_side": 2,
+            "armor_damage": 5,
+            "health_damage": 36,
+            "hitgroup": 1,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 20,
+            "tick": 119977,
+            "seconds": 1875.13135
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 49,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 306,
+              "type": 3,
+              "weapon_name": "SSG 08"
+            },
+            "round_number": 21,
+            "tick": 122982,
+            "seconds": 1922.07373
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 3,
+            "armor_damage": 1,
+            "health_damage": 25,
+            "hitgroup": 4,
+            "weapon": {
+              "element": 5,
+              "type": 1,
+              "weapon_name": "Five-SeveN"
+            },
+            "round_number": 21,
+            "tick": 123182,
+            "seconds": 1925.1991
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 3,
+            "armor_damage": 1,
+            "health_damage": 25,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 5,
+              "type": 1,
+              "weapon_name": "Five-SeveN"
+            },
+            "round_number": 21,
+            "tick": 123200,
+            "seconds": 1925.48035
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198142821131,
+            "attacker_side": 3,
+            "armor_damage": 1,
+            "health_damage": 25,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 5,
+              "type": 1,
+              "weapon_name": "Five-SeveN"
+            },
+            "round_number": 21,
+            "tick": 123212,
+            "seconds": 1925.66785
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 3,
+            "armor_damage": 7,
+            "health_damage": 89,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 306,
+              "type": 3,
+              "weapon_name": "SSG 08"
+            },
+            "round_number": 22,
+            "tick": 127781,
+            "seconds": 1997.05029
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 0,
+            "health_damage": 85,
+            "hitgroup": 7,
+            "weapon": {
+              "element": 309,
+              "type": 3,
+              "weapon_name": "AWP"
+            },
+            "round_number": 22,
+            "tick": 130175,
+            "seconds": 2034.46033
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 15,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 23,
+            "tick": 133365,
+            "seconds": 2084.30933
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 15,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 23,
+            "tick": 133375,
+            "seconds": 2084.46558
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 15,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 23,
+            "tick": 133379,
+            "seconds": 2084.528
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 15,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 23,
+            "tick": 133385,
+            "seconds": 2084.62183
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 15,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 23,
+            "tick": 133389,
+            "seconds": 2084.68433
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 4,
+            "health_damage": 15,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 23,
+            "tick": 133395,
+            "seconds": 2084.778
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198093606580,
+            "attacker_side": 3,
+            "armor_damage": 5,
+            "health_damage": 19,
+            "hitgroup": 3,
+            "weapon": {
+              "element": 101,
+              "type": 4,
+              "weapon_name": "MP7"
+            },
+            "round_number": 23,
+            "tick": 133399,
+            "seconds": 2084.84058
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 6,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 503,
+              "type": 7,
+              "weapon_name": "Incendiary"
+            },
+            "round_number": 24,
+            "tick": 141143,
+            "seconds": 2205.853
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 6,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 503,
+              "type": 7,
+              "weapon_name": "Incendiary"
+            },
+            "round_number": 24,
+            "tick": 141143,
+            "seconds": 2205.853
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 7,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 503,
+              "type": 7,
+              "weapon_name": "Incendiary"
+            },
+            "round_number": 24,
+            "tick": 141155,
+            "seconds": 2206.04053
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 7,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 503,
+              "type": 7,
+              "weapon_name": "Incendiary"
+            },
+            "round_number": 24,
+            "tick": 141155,
+            "seconds": 2206.04053
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 7,
+            "health_damage": 22,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 506,
+              "type": 7,
+              "weapon_name": "HE Grenade"
+            },
+            "round_number": 24,
+            "tick": 142353,
+            "seconds": 2224.76123
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 7,
+            "health_damage": 22,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 506,
+              "type": 7,
+              "weapon_name": "HE Grenade"
+            },
+            "round_number": 24,
+            "tick": 142353,
+            "seconds": 2224.76123
+          },
+          {
+            "hurted_steamid": 76561198236971050,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 2,
+            "hitgroup": 0,
+            "weapon": {
+              "element": 506,
+              "type": 7,
+              "weapon_name": "HE Grenade"
+            },
+            "round_number": 24,
+            "tick": 142353,
+            "seconds": 2224.76123
+          },
+          {
+            "hurted_steamid": 76561198220029291,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 0,
+            "health_damage": 141,
+            "hitgroup": 1,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 24,
+            "tick": 142499,
+            "seconds": 2227.04272
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 27,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 24,
+            "tick": 143193,
+            "seconds": 2237.8877
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 27,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 24,
+            "tick": 143201,
+            "seconds": 2238.0127
+          },
+          {
+            "hurted_steamid": 76561198113205877,
+            "attacker_steamid": 76561198267861211,
+            "attacker_side": 2,
+            "armor_damage": 4,
+            "health_damage": 27,
+            "hitgroup": 5,
+            "weapon": {
+              "element": 303,
+              "type": 2,
+              "weapon_name": "AK-47"
+            },
+            "round_number": 24,
+            "tick": 143207,
+            "seconds": 2238.10645
+          },
+          {
+            "hurted_steamid": 76561198267861211,
+            "attacker_steamid": 76561198113205877,
+            "attacker_side": 3,
+            "armor_damage": 6,
+            "health_damage": 65,
+            "hitgroup": 2,
+            "weapon": {
+              "element": 310,
+              "type": 3,
+              "weapon_name": "Scar-20"
+            },
+            "round_number": 24,
+            "tick": 143225,
+            "seconds": 2238.3877
+          }
+        ],
+        "clutches": [],
+        "rank_old": 8,
+        "rank_new": 8,
+        "win_count": 152,
+        "entry_kill_won_count": 1,
+        "entry_kill_loss_count": 3,
+        "entry_hold_kill_won_count": 2,
+        "entry_hold_kill_loss_count": 2,
+        "clutch_count": 0,
+        "clutch_loss_count": 0,
+        "clutch_won_count": 0,
+        "1v1_won_count": 0,
+        "1v2_won_count": 0,
+        "1v3_won_count": 0,
+        "1v4_won_count": 0,
+        "1v5_won_count": 0,
+        "1v1_loss_count": 0,
+        "1v2_loss_count": 0,
+        "1v3_loss_count": 0,
+        "1v4_loss_count": 0,
+        "1v5_loss_count": 0,
+        "1v1_count": 0,
+        "1v2_count": 0,
+        "1v3_count": 0,
+        "1v4_count": 0,
+        "1v5_count": 0,
+        "total_damage_health_done": 2260,
+        "total_damage_armor_done": 214,
+        "total_damage_health_received": 2462,
+        "total_damage_armor_received": 268,
+        "average_health_damage": 94.2,
+        "kill_per_round": 0.71,
+        "assist_per_round": 0.17,
+        "death_per_round": 0.75
+      }
